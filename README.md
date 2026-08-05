@@ -1,3 +1,7 @@
+
+
+Uploading Banking intent.mp4…
+
 # 🇧🇩 Bangla Banking Chatbot and Intent Detection
 
 An advanced Natural Language Processing (NLP) framework designed for intent classification in the banking sector. This repository benchmarks **five distinct machine learning and deep learning architectures** to detect user intents from code-mixed (Banglish) and native Bengali script queries.
