@@ -1,6 +1,8 @@
 
 
-Uploading Banking intent.mp4…
+Uploading IntentDetection.mp4…
+
+
 
 # 🇧🇩 Bangla Banking Chatbot and Intent Detection
 
